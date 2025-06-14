@@ -7,6 +7,7 @@ function App() {
 
   const playSound = () => {
     new Audio('/assets/click.mp3').play();
+   
   };
 
   const increase = () => {
